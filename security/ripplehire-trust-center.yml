@@ -1,0 +1,30 @@
+generated: '2026-07-21'
+method: searched
+source: https://www.ripplehire.com/trust-center
+url: https://www.ripplehire.com/trust-center
+certifications:
+- ISO 27001:2013
+- SOC 2 Type II
+- GDPR
+- CCPA
+programs:
+- name: ISO 27001:2013
+  detail: Certified since 2016, audited annually by BSI.
+- name: SOC 2 Type II
+  detail: Latest audit period Jan 2023 - Dec 2023 (certified March 2024).
+- name: GDPR
+  detail: GDPR compliant since 2016, audited annually.
+- name: CCPA
+  detail: California Consumer Privacy Act compliance.
+- name: Data Processing Addendum
+  detail: DPA with Standard Contractual Clauses (SCCs) and Transfer Impact Assessments (TIA) for international data transfers.
+legal:
+- Data Processing Addendum (DPA)
+- Master Subscription Agreement (MSA)
+- Privacy Policy
+- Certificate of Insurance (on request)
+subprocessors: https://www.ripplehire.com/trust-center
+contact: support@ripplehire.com
+evidence:
+- source: https://www.ripplehire.com/trust-center
+  keywords: [iso 27001, soc 2 type ii, gdpr, ccpa, trust center]

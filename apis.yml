@@ -1,8 +1,26 @@
 aid: ripplehire
 name: RippleHire
-description: RippleHire is a company surfaced as a portfolio company of 500-global and added to the API
-  Evangelist network as a stub for enrichment. This profile is a lead awaiting the enrichment pipeline.
+description: RippleHire is an enterprise, AI-powered talent acquisition and Applicant
+  Tracking System (ATS) that automates recruitment workflows end to end - demand creation,
+  sourcing, employee referrals, candidate management, interviews, offers, and onboarding.
+  Built on behavioral science, AI agents, and no-code configuration, it helps large
+  organizations hire faster at scale across 50+ countries. Its RHConnect framework
+  provides API-first and no-code integrations with HRMS, job boards, communication,
+  and assessment tools. RippleHire is a portfolio company of 500 Global, added to
+  the API Evangelist network and enriched by the pipeline.
 url: https://raw.githubusercontent.com/api-evangelist/ripplehire/refs/heads/main/apis.yml
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://www.ripplehire.com/hubfs/Header%20Assets/logo.svg
 x-type: company
 x-source: vc-portfolio
 x-backed-by:
@@ -11,9 +29,16 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-21'
 tags:
 - Company
+- Recruiting
+- Applicant Tracking System
+- HR Tech
+- Hiring
+- Employee Referrals
+- Talent Acquisition
+- Onboarding
 apis: []
 maintainers:
 - FN: Kin Lane
@@ -23,3 +48,20 @@ maintainers:
 common:
 - type: Website
   url: https://ripplehire.com
+- type: TrustCenter
+  url: https://www.ripplehire.com/trust-center
+- type: Compliance
+  url: https://www.ripplehire.com/trust-center
+- type: TermsOfService
+  url: https://www.ripplehire.com/terms-of-use
+- type: PrivacyPolicy
+  url: https://www.ripplehire.com/privacy-policy
+- type: SignUp
+  url: https://www.ripplehire.com/schedule-demo
+- type: DomainSecurity
+  url: security/ripplehire-domain-security.yml
+x-enrichment:
+  date: '2026-07-21'
+  status: enriched
+  artifacts_added: 2
+  pass: local-v1
