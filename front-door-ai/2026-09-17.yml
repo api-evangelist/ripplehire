@@ -1,0 +1,34 @@
+# Front Door AI Index — ripplehire — 2026-09-17
+# AI vocabulary counted on the provider's root page. Generated; do not edit.
+# `score` is null unless ownership is `own` — see front_door_ai.py.
+front_door_ai:
+  slug: ripplehire
+  lexicon_version: '1.0'
+  probed_at: '2026-09-17'
+  host: ripplehire.com
+  final_host: www.ripplehire.com
+  ownership: own
+  owner: ripplehire
+  shares_host_with: null
+  inherited_from: null
+  verdict: scored
+  score: 42
+  host_score: 42
+  density: 21.35
+  words: 1967
+  tiers:
+    agentic: 10
+    core: 32
+    model: 0
+  ambiguous: 74
+  top_terms:
+    agent: 61
+    AI: 32
+    copilot: 6
+    predictive: 6
+    automation: 3
+    agentic: 2
+    intelligence: 2
+    smart: 2
+    AI agent: 1
+    MCP: 1
