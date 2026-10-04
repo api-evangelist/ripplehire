@@ -44,7 +44,7 @@ modified: '2026-07-21'
 tags:
 - Company
 - Recruiting
-- ATS
+- Applicant Tracking
 - Human Resources
 - Hiring
 - Employee Referrals
@@ -59,6 +59,7 @@ tags_raw:
 - Employee Referrals
 - Talent Acquisition
 - Onboarding
+- ATS
 apis: []
 maintainers:
 - FN: Kin Lane
